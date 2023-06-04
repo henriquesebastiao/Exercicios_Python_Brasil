@@ -1,7 +1,7 @@
 package EstruturaSequencial;
 
 import java.util.Scanner;
-public class Exercicio2 {
+public class Exercicio3 {
     public static void main(String[] args) {
         Scanner inputs = new Scanner(System.in);
         System.out.println("Informe um número: ");
